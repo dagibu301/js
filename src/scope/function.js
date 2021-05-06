@@ -16,3 +16,6 @@ const anotherFunction = () => {
 };
 
 anotherFunction();
+
+console.log(x);
+console.log(y);
